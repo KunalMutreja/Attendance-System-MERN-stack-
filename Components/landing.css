@@ -1,0 +1,43 @@
+.back{
+    background-color: white;
+}
+.image{
+    width:895px;
+    /* float:right; */
+   
+    display:flex;
+}
+.dot {
+    height: 600px;
+    width: 600px;
+    background-color:#8ca0ff;
+    border-radius: 50%;
+    display: inline-block;
+    z-index:2;
+  }
+.margin{
+    margin-top: 4rem!important;
+    margin-left:80px;
+    margin-right: -40px;
+    
+}
+.marginText{
+    margin-top: 4.5rem;
+    margin-bottom: 1.5rem;
+    font-family: "Times New Roman";
+}
+
+.button{
+    width:161px;
+    background-color: #013e8b!important;
+    margin-bottom: -68px;
+}
+
+.attendanceimg{
+    width: 138px;
+}
+.centered {
+     overflow-wrap: break-word;
+     font-family: "Times New Roman";
+
+  }
